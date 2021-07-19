@@ -1,6 +1,6 @@
 name="MBTV Zephyr Mod"
 version="BETA 1"
-url="https://kodihub.net/zp6yd"
+url="https://kodihub.net/4msf6"
 minor="http://"
 gui="http://"
 kodi="19"
