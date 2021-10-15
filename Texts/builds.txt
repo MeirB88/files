@@ -1,5 +1,5 @@
 name="MBTV Zephyr Mod"
-version="1.0.1"
+version="1.0.2"
 url="https://kodihub.net/4msf6"
 minor="http://"
 gui="http://"
