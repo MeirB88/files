@@ -1,5 +1,5 @@
 name="MBTV Zephyr Mod"
-version="1.0.3"
+version="1.0.4"
 url="https://www.dropbox.com/s/b40spww12v3m05b/MBTV103.zip?dl=1"
 minor="http://"
 gui="https://github.com/MeirB88/files/raw/main/MBTV_GUI.7z"
