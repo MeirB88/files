@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mbtv>
+    <series id="1">
+        <title>שם הסדרה 1</title>
+        <thumbnail>קישור לתמונה של הסדרה 1</thumbnail>
+        <info>מידע נוסף על הסדרה 1</info>
+        <seasons>
+            <season id="1">
+                <title>עונה 1</title>
+                <episodes>
+                    <episode id="1">
+                        <title>פרק 1</title>
+                        <video_url>קישור לפרק 1</video_url>
+                        <thumbnail>קישור לתמונה של פרק 1</thumbnail>
+                        <info>מידע נוסף על פרק 1</info>
+                    </episode>
+                    </episodes>
+            </season>
+        </seasons>
+    </series>
+
+    <movie id="1">
+        <title>שם הסרט 1</title>
+        <video_url>קישור לסרט 1</video_url>
+        <thumbnail>קישור לתמונה של סרט 1</thumbnail>
+        <info>מידע נוסף על סרט 1</info>
+    </movie>
+</mbtv>
+
