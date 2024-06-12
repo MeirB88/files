@@ -1,0 +1,60 @@
+{
+    "movies": [
+      {
+        "name": "Movie 1",
+        "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID",
+        "thumbnail": "https://example.com/thumbnails/movie1.jpg"
+      },
+      {
+        "name": "Movie 2",
+        "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID",
+        "thumbnail": "https://example.com/thumbnails/movie2.jpg"
+      }
+    ],
+    "series": [
+      {
+        "name": "תנוחי",
+        "thumbnail": "https://artworks.thetvdb.com/banners/posters/258090-1.jpg",
+        "seasons": [
+          {
+            "season": "עונה 1",
+            "episodes": [
+              {
+                "name": "פרק 1",
+                "url": "https://drive.google.com/file/d/1r4Nj2nZCaZoPeQ_cr1Wbpgm8_UcqKfF8/view?usp=drive_link"
+              },
+              {
+                "name": "Episode 2",
+                "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID"
+              }
+            ]
+          },
+          {
+            "season": "Season 2",
+            "episodes": [
+              {
+                "name": "Episode 1",
+                "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Series 2",
+        "thumbnail": "https://example.com/thumbnails/series2.jpg",
+        "seasons": [
+          {
+            "season": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 1",
+                "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
