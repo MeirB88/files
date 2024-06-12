@@ -1,57 +1,62 @@
 {
     "movies": [
       {
-        "name": "Movie 1",
-        "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID",
-        "thumbnail": "https://example.com/thumbnails/movie1.jpg"
-      },
-      {
-        "name": "Movie 2",
-        "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID",
-        "thumbnail": "https://example.com/thumbnails/movie2.jpg"
+        "title": "צ'רלי וחצי",
+        "year": 1974,
+        "genre": "Genre",
+        "director": "Boaz Davidson",
+        "thumb": "https://artworks.thetvdb.com/banners/movies/61560/backgrounds/61560.jpg",
+        "fanart": "https://artworks.thetvdb.com/banners/movies/61560/posters/61560.jpg",
+        "file": "https://drive.google.com/file/d/1FPjArJwzEFsvtp8OTRHQJj9CZ6Vr8hCm/view?usp=drive_link"
       }
+      
     ],
-    "series": [
+    "tvshows": [
       {
-        "name": "תנוחי",
-        "thumbnail": "https://artworks.thetvdb.com/banners/posters/258090-1.jpg",
+        "title": "TV Show 1 Title",
+        "year": 2021,
+        "genre": "Genre", 
+        "creator": "Creator Name",
+        "thumb": "https://example.com/images/tvshow1.jpg",
+        "fanart": "https://example.com/images/tvshow1_fanart.jpg",
         "seasons": [
           {
-            "season": "עונה 1",
+            "number": 1,
             "episodes": [
               {
-                "name": "פרק 1",
-                "url": "https://drive.google.com/file/d/1r4Nj2nZCaZoPeQ_cr1Wbpgm8_UcqKfF8/view?usp=drive_link"
+                "title": "Episode 1 Title",
+                "season": 1,
+                "episode": 1,
+                "thumb": "https://example.com/images/tvshow1_s01e01.jpg",
+                "file": "https://example.com/videos/tvshow1_s01e01.mp4"
               },
               {
-                "name": "Episode 2",
-                "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID"
+                "title": "Episode 2 Title",
+                "season": 1, 
+                "episode": 2,
+                "thumb": "https://example.com/images/tvshow1_s01e02.jpg",
+                "file": "https://example.com/videos/tvshow1_s01e02.mp4"  
               }
             ]
           },
           {
-            "season": "Season 2",
+            "number": 2,
             "episodes": [
               {
-                "name": "Episode 1",
-                "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Series 2",
-        "thumbnail": "https://example.com/thumbnails/series2.jpg",
-        "seasons": [
-          {
-            "season": "Season 1",
-            "episodes": [
+                "title": "Episode 1 Title",
+                "season": 2,
+                "episode": 1,
+                "thumb": "https://example.com/images/tvshow1_s02e01.jpg",
+                "file": "https://example.com/videos/tvshow1_s02e01.mp4"
+              },
               {
-                "name": "Episode 1",
-                "url": "https://drive.google.com/uc?export=download&id=YOUR_DRIVE_FILE_ID"
+                "title": "Episode 2 Title",
+                "season": 2,
+                "episode": 2,
+                "thumb": "https://example.com/images/tvshow1_s02e02.jpg", 
+                "file": "https://example.com/videos/tvshow1_s02e02.mp4"
               }
-            ]
+            ]  
           }
         ]
       }
