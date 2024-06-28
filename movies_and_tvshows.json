@@ -1,66 +1,26 @@
 {
-    "movies": [
-      {
-        "title": "צ'רלי וחצי",
-        "year": 1974,
-        "genre": "Genre",
-        "director": "Boaz Davidson",
-        "plot": "צ'רלי בן שכונה נחשלת מתפרנס מרמאויות ומעשי סחיטה ומסתייע לשם כך בחצי שלו/, מיקו הקטן. ששון לעומתו רמאי בעל חזות אלגנטית ועיסוקים אפלים. הם גיבורי הסרט המצליח שהפך שגור בפי כל עם. הרבה צחוק/, הרבה רמאיות וקצת רומנטיקה וריגושים.",
-        "thumb": "https://artworks.thetvdb.com/banners/movies/61560/posters/61560.jpg",
-        "fanart": "https://artworks.thetvdb.com/banners/movies/61560/backgrounds/61560.jpg",
-        "file": "http://mbtv.ddns.net/Movies/Charlie.mp4"
-      }
-      
-    ],
-    "tvshows": [
-      {
-        "title": "TV Show 1 Title",
-        "year": 2021,
-        "genre": "Genre", 
-        "creator": "Creator Name",
-        "thumb": "https://example.com/images/tvshow1.jpg",
-        "fanart": "https://example.com/images/tvshow1_fanart.jpg",
-        "seasons": [
-          {
-            "number": 1,
-            "episodes": [
-              {
-                "title": "Episode 1 Title",
-                "season": 1,
-                "episode": 1,
-                "thumb": "https://example.com/images/tvshow1_s01e01.jpg",
-                "file": "https://example.com/videos/tvshow1_s01e01.mp4"
-              },
-              {
-                "title": "Episode 2 Title",
-                "season": 1, 
-                "episode": 2,
-                "thumb": "https://example.com/images/tvshow1_s01e02.jpg",
-                "file": "https://example.com/videos/tvshow1_s01e02.mp4"  
-              }
-            ]
-          },
-          {
-            "number": 2,
-            "episodes": [
-              {
-                "title": "Episode 1 Title",
-                "season": 2,
-                "episode": 1,
-                "thumb": "https://example.com/images/tvshow1_s02e01.jpg",
-                "file": "https://example.com/videos/tvshow1_s02e01.mp4"
-              },
-              {
-                "title": "Episode 2 Title",
-                "season": 2,
-                "episode": 2,
-                "thumb": "https://example.com/images/tvshow1_s02e02.jpg", 
-                "file": "https://example.com/videos/tvshow1_s02e02.mp4"
-              }
-            ]  
-          }
-        ]
-      }
-    ]
-  }
-  
+  "movies": [
+    {
+      "title": "צ'רלי וחצי",
+      "file": "http://mbtv.ddns.net/movies/Charlie.mp4",
+      "tvdb_id": "61560"
+    }
+  ],
+  "tvshows": [
+    {
+      "title": "תנוחי",
+      "tvdb_id": "258090",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "title": "את אחלה",
+              "file": "http://mbtv.ddns.net/tvshows/Tanuhi/S1/S01E01.avi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
