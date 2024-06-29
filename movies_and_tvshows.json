@@ -3,20 +3,20 @@
     {
       "title": "צ'רלי וחצי",
       "file": "http://mbtv.ddns.net/movies/Charlie.mp4",
-      "tvdb_id": "61560"
+      "tmdb_id": "13521"
     }
   ],
   "tvshows": [
     {
       "title": "תנוחי",
-      "tvdb_id": "258090",
+      "tmdb_id": "25594",
       "seasons": [
         {
           "number": 1,
           "episodes": [
             {
               "title": "את אחלה",
-              "file": "http://mbtv.ddns.net/tvshows/Tanuhi/S1/S01E01.avi"
+              "file": "http://mbtv.ddns.net/tvshows/Tanuhi/S1/S01E01.mp4"
             }
           ]
         }
