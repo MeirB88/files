@@ -1,25 +1,32 @@
 {
-  "movies": [
-    {
-      "title": "צרלי וחצי",
-      "description": "תיאור הסרט",
-      "url": "https://mega.nz/file/OQdDCDYL#5ftoEQ4EPx_TNaFytaq8MHEyZyjoCeg5BJyuUHOihH4"
-    },
-    // More movies...
-  ],
-  "tvshows": [
-    {
-      "title": "שם התוכנית",
-      "description": "תיאור התוכנית",
-      "url": "http://example.com/tvshow_stream_url"
-    },
-    // More TV shows...
-  ],
-  "live": [
-    {
-      "name": "שם הערוץ",
-      "url": "http://example.com/live_stream_url"
-    },
-    // More live channels...
-  ]
-}
+     "movies": [
+       {
+         "title": "Movie Title 1",
+         "description": "Movie Description 1",
+         "url": "https://mega.nz/file/OQdDCDYL#5ftoEQ4EPx_TNaFytaq8MHEyZyjoCeg5BJyuUHOihH4"
+       },
+       {
+         "title": "Movie Title 2",
+         "description": "Movie Description 2",
+         "url": "http://example.com/movie2.mp4"
+       }
+     ],
+     "tvshows": [
+       {
+         "title": "TV Show Title 1",
+         "description": "TV Show Description 1",
+         "episodes": [
+           {
+             "title": "Episode 1",
+             "url": "http://example.com/tvshow1_episode1.mp4"
+           }
+         ]
+       }
+     ],
+     "live": [
+       {
+         "name": "Live Channel 1",
+         "url": "http://example.com/live_channel1.m3u8"
+       }
+     ]
+   }
