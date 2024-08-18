@@ -1,34 +1,36 @@
 {
-     "movies": [
-       {
-         "title": "צ'רלי וחצי",
-         "description": "צ'רלי הוא נוכל קטן משכונת מצוקה, המתפרנס מרמאויות וניהול משחקי מזל בלתי-חוקיים ומסתייע במיקו הקטן והמופרע. מיקו הוא ילד יתום המתגורר בבקתה עלובה, עם אחותו הגדולה לילי, שהחבר שלה שוהה בארצות הברית. צ'רלי מתאהב בגילה זוהר, נערה בלונדינית יפהפייה, בת להורים עשירים מצפון תל אביב, שהוריה מנסים לשדך לה את רוברט, בנו החנון של אחד משותפיו לעסקים של מר זוהר בחו"ל. גם היא מואסת בנער השעשועים האמריקאי, שמתעניין בעיקר במוזיקה קלאסית, גולף וכדומה. צ'רלי וגילה מוצאים כל פעם דרך להתחמק מרוברט ולבלות בלעדיו.",
-         "url": "https://www.dropbox.com/scl/fi/uoefy1d9xey4ivbuij02z/.mp4?rlkey=0ka3dpiol4swkvwscar106su8&st=02va3uno&dl=1"
-		 "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kS6IRhY66IzNP6zYBlWQos1vebk.jpg"
-
-       },
-       {
-         "title": "Movie Title 2",
-         "description": "Movie Description 2",
-         "url": "http://example.com/movie2.mp4"
-       }
-     ],
-     "tvshows": [
-       {
-         "title": "TV Show Title 1",
-         "description": "TV Show Description 1",
-         "episodes": [
-           {
-             "title": "Episode 1",
-             "url": "http://example.com/tvshow1_episode1.mp4"
-           }
-         ]
-       }
-     ],
-     "live": [
-       {
-         "name": "Live Channel 1",
-         "url": "http://example.com/live_channel1.m3u8"
-       }
-     ]
-   }
+  "movies": [
+    {
+      "title": "צ'רלי וחצי",
+      "description": "צ'רלי הוא נוכל קטן משכונת מצוקה, המתפרנס מרמאויות וניהול משחקי מזל בלתי-חוקיים ומסתייע במיקו הקטן והמופרע. מיקו הוא ילד יתום המתגורר בבקתה עלובה, עם אחותו הגדולה לילי, שהחבר שלה שוהה בארצות הברית. צ'רלי מתאהב בגילה זוהר, נערה בלונדינית יפהפייה, בת להורים עשירים מצפון תל אביב, שהוריה מנסים לשדך לה את רוברט, בנו החנון של אחד משותפיו לעסקים של מר זוהר בחו"ל. גם היא מואסת בנער השעשועים האמריקאי, שמתעניין בעיקר במוזיקה קלאסית, גולף וכדומה. צ'רלי וגילה מוצאים כל פעם דרך להתחמק מרוברט ולבלות בלעדיו.",
+      "url": "https://www.example.com/video1.mp4",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kS6IRhY66IzNP6zYBlWQos1vebk.jpg"
+    },
+    {
+      "title": "Movie 2",
+      "description": "Description of Movie 2",
+      "url": "https://www.example.com/video2.mp4",
+      "poster": "https://example.com/posters/movie2_poster.jpg"
+    }
+  ],
+  "tvshows": [
+    {
+      "title": "TV Show 1",
+      "description": "Description of TV Show 1",
+      "poster": "https://example.com/posters/tvshow1_poster.jpg",
+      "episodes": [
+        {
+          "title": "Episode 1",
+          "url": "https://www.example.com/tvshow1_episode1.mp4"
+        }
+      ]
+    }
+  ],
+  "live": [
+    {
+      "title": "Live Channel 1",
+      "url": "https://example.com/live_stream1.m3u8",
+      "poster": "https://example.com/posters/live1_poster.jpg"
+    }
+  ]
+}
